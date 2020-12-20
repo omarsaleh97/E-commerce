@@ -39,6 +39,3 @@
 => Profile (added)
 
 => Bottom Navigation Bar (added)
-
-Now it contains all the screen, thanks for your love and support 🙏 
-
